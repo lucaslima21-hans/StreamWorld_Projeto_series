@@ -1,0 +1,19 @@
+.Formulario-series{
+    font-size: 35px;
+    display: flex;
+    width: 30px;
+    padding: 25px;
+    justify-content: center;
+    text-align: center;
+    background-color: blue;
+}
+
+.body{
+    background-color: black;
+    width: 45px;
+    padding: 35px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
